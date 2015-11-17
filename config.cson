@@ -5,6 +5,7 @@
     fontSize: 15
     softTabs: false
     showInvisibles: true
+    tabLength: 4
   core:
     themes: [
       "one-dark-ui"
@@ -52,6 +53,8 @@
     esnext: true
     fixOnSave: true
     onlyConfig: true
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
 ".python.source":
   editor:
     autoIndentOnPaste: true
