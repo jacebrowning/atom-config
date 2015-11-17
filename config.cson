@@ -40,10 +40,11 @@
     ignoreErrorCodes: [
       "E501"
     ]
-    pep8ExecutablePath: "/usr/local/bin/pep8"
+    pep8ExecutablePath: "/opt/boxen/pyenv/shims/pep8"
   "linter-pylint":
-    executable: "env/bin/pylint"
+    executable: "/opt/boxen/pyenv/shims/pylint"
     rcFile: ".pylintrc"
+    pythonPath: "%p"
   "markdown-preview": {}
   autosave:
     enabled: true
