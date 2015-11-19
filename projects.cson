@@ -1,0 +1,30 @@
+boxen:
+  title: "boxen"
+  paths: [
+    "/Users/Browning/Programs/Boxen"
+  ]
+api:
+  title: "api"
+  paths: [
+    "/Users/Browning/Programs/modustri-api"
+  ]
+system:
+  title: "system"
+  paths: [
+    "/Users/Browning/Programs/modustri-uc"
+  ]
+web:
+  title: "web"
+  paths: [
+    "/Users/Browning/Programs/modustri-uc-web"
+  ]
+"web-e2e":
+  title: "web-e2e"
+  paths: [
+    "/Users/Browning/Programs/modustri-uc-web/gdm_sources/e2e"
+  ]
+"atom-config":
+  title: "atom-config"
+  paths: [
+    "/Users/Browning/Programs/atom-config"
+  ]

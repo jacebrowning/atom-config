@@ -2,7 +2,6 @@
   editor:
     invisibles: {}
     scrollPastEnd: true
-    fontSize: 15
     softTabs: false
     showInvisibles: true
     tabLength: 4
@@ -11,10 +10,10 @@
       "one-dark-ui"
       "one-dark-syntax"
     ]
-    projectHome: "/Users/jason/Projects"
     disabledPackages: [
       "git-blame-plus"
     ]
+    projectHome: "/Users/Browning/Programs"
   "exception-reporting":
     userId: "d9a613a9-e47f-edfa-dc48-9868294a23ba"
   welcome:
@@ -29,7 +28,7 @@
     ]
   emmet: {}
   "linter-eslint":
-    globalNodePath: "/usr/local"
+    globalNodePath: "/opt/boxen/nodenv/versions/v0.12.7"
     useGlobalEslint: true
   linter:
     subtleLinterErrors: [
