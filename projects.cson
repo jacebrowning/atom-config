@@ -28,3 +28,13 @@ web:
   paths: [
     "/Users/Browning/Programs/atom-config"
   ]
+"api-e2e":
+  title: "api-e2e"
+  paths: [
+    "/Users/Browning/Programs/modustri-api-e2e"
+  ]
+ios:
+  title: "ios"
+  paths: [
+    "/Users/Browning/Programs/modustri-uc-ios"
+  ]
