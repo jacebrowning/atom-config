@@ -38,3 +38,13 @@ ios:
   paths: [
     "/Users/Browning/Programs/modustri-uc-ios"
   ]
+gdm:
+  title: "GDM"
+  paths: [
+    "/Users/Browning/Programs/GDM"
+  ]
+"template-python":
+  title: "template-python"
+  paths: [
+    "/Users/Browning/Programs/template-python"
+  ]
