@@ -48,3 +48,8 @@ gdm:
   paths: [
     "/Users/Browning/Programs/template-python"
   ]
+memegen:
+  title: "MemeGen"
+  paths: [
+    "/Users/Browning/Programs/MemeGen"
+  ]
