@@ -18,4 +18,5 @@ packages: [
   "Parinfer"
   "project-manager"
   "Sublime-Style-Column-Selection"
+  "sort-lines"
 ]

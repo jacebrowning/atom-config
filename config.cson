@@ -1,10 +1,13 @@
 "*":
   editor:
-    invisibles: {}
+    invisibles:
+      eol: " "
+      space: " "
     scrollPastEnd: true
     softTabs: false
     showInvisibles: true
     tabLength: 4
+    showIndentGuide: true
   core:
     themes: [
       "one-dark-ui"
@@ -41,7 +44,7 @@
     ]
     pep8ExecutablePath: "/opt/boxen/pyenv/shims/pep8"
   "linter-pylint":
-    executable: "/opt/boxen/pyenv/shims/pylint"
+    executable: "env/bin/pylint"
     rcFile: ".pylintrc"
     pythonPath: "%p"
   "markdown-preview": {}
@@ -55,6 +58,8 @@
     onlyConfig: true
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
+  "project-manager":
+    closeCurrent: true
 ".python.source":
   editor:
     autoIndentOnPaste: true
