@@ -38,3 +38,8 @@ ios:
   paths: [
     "/Users/Browning/Programs/modustri-uc-ios"
   ]
+memegen:
+  title: "MemeGen"
+  paths: [
+    "/Users/Browning/Programs/MemeGen"
+  ]
