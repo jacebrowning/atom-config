@@ -2,6 +2,7 @@ packages: [
   "atom-alignment"
   "atom-beautify"
   "autoclose-html"
+  "editorconfig"
   "highlight-selected"
   "jscs-fixer"
   "language-puppet"
