@@ -63,3 +63,8 @@ swagger:
   paths: [
     "/Users/Browning/Programs/modustri-swagger"
   ]
+yorm:
+  title: "YORM"
+  paths: [
+    "/Users/Browning/Programs/YORM"
+  ]
