@@ -53,3 +53,8 @@ memegen:
   paths: [
     "/Users/Browning/Programs/MemeGen"
   ]
+"move-shows":
+  title: "move-shows"
+  paths: [
+    "/Users/Browning/Drive/Scripts/Move_TV_Shows"
+  ]
