@@ -5,3 +5,4 @@
 /.npm
 /.node-gyp
 /packages
+/blob-store
