@@ -68,6 +68,11 @@ yorm:
   paths: [
     "/Users/Browning/Programs/YORM"
   ]
+"move-shows":
+  title: "move-shows"
+  paths: [
+    "/Users/Browning/Drive/Scripts/Move_TV_Shows"
+  ]
 dropthebeat:
   title: "DropTheBeat"
   paths: [
