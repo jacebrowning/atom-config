@@ -68,3 +68,8 @@ yorm:
   paths: [
     "/Users/Browning/Programs/YORM"
   ]
+dropthebeat:
+  title: "DropTheBeat"
+  paths: [
+    "/Users/Browning/Programs/DropTheBeat"
+  ]
