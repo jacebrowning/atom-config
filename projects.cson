@@ -78,3 +78,8 @@ dropthebeat:
   paths: [
     "/Users/Browning/Programs/DropTheBeat"
   ]
+"template-python-demo":
+  title: "template-python-demo"
+  paths: [
+    "/Users/Browning/Programs/template-python/PythonTemplateDemo"
+  ]
