@@ -88,3 +88,8 @@ mine:
   paths: [
     "/Users/Browning/Programs/mine"
   ]
+votestakes:
+  title: "VoteStakes"
+  paths: [
+    "/Users/Browning/Programs/votestakes-rails"
+  ]
