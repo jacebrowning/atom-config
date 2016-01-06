@@ -93,3 +93,8 @@ votestakes:
   paths: [
     "/Users/Browning/Programs/votestakes-rails"
   ]
+"friendlycode-grparks":
+  title: "friendlycode-grparks"
+  paths: [
+    "/Users/Browning/Programs/friendlycode-grparks"
+  ]
