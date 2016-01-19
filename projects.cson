@@ -98,3 +98,8 @@ votestakes:
   paths: [
     "/Users/Browning/Programs/friendlycode-grparks"
   ]
+reports:
+  title: "reports"
+  paths: [
+    "/Users/Browning/Programs/modustri-reports"
+  ]
