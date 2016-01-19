@@ -1,43 +1,45 @@
 "*":
+  "autocomplete-plus":
+    fileBlacklist: [
+      "*.md"
+    ]
+  autosave:
+    enabled: true
+  core:
+    disabledPackages: [
+      "git-blame-plus"
+    ]
+    projectHome: "/Users/Browning/Programs"
+    themes: [
+      "one-dark-ui"
+      "one-dark-syntax"
+    ]
   editor:
     invisibles:
       eol: " "
       space: " "
     scrollPastEnd: true
-    softTabs: false
-    showInvisibles: true
-    tabLength: 4
     showIndentGuide: true
-  core:
-    themes: [
-      "one-dark-ui"
-      "one-dark-syntax"
-    ]
-    disabledPackages: [
-      "git-blame-plus"
-    ]
-    projectHome: "/Users/Browning/Programs"
+    showInvisibles: true
+    softTabs: false
+    tabLength: 4
+  emmet: {}
   "exception-reporting":
     userId: "d9a613a9-e47f-edfa-dc48-9868294a23ba"
-  welcome:
-    showOnStartup: false
-  tabs:
-    showIcons: true
-    usePreviewTabs: true
-  minimap: {}
-  "autocomplete-plus":
-    fileBlacklist: [
-      "*.md"
-    ]
-  emmet: {}
-  "linter-eslint":
-    globalNodePath: "/opt/boxen/nodenv/versions/v0.12.7"
-    useGlobalEslint: true
+  "git-blame-plus": {}
+  "jscs-fixer": {}
   linter:
+    showErrorTabProject: false
     subtleLinterErrors: [
       "pep8"
     ]
-    showErrorTabProject: false
+  "linter-eslint":
+    globalNodePath: "/opt/nodes/4.2.4"
+    useGlobalEslint: true
+  "linter-jscs":
+    esnext: true
+    fixOnSave: true
+    onlyConfig: true
   "linter-pep8":
     ignoreErrorCodes: [
       "E501"
@@ -45,21 +47,19 @@
     pep8ExecutablePath: "/opt/boxen/pyenv/shims/pep8"
   "linter-pylint":
     executable: "/opt/boxen/pyenv/shims/pylint"
-    rcFile: ".pylintrc"
     pythonPath: "%p"
+    rcFile: ".pylintrc"
   "markdown-preview": {}
-  autosave:
-    enabled: true
-  "jscs-fixer": {}
-  "git-blame-plus": {}
-  "linter-jscs":
-    esnext: true
-    fixOnSave: true
-    onlyConfig: true
-  whitespace:
-    ignoreWhitespaceOnCurrentLine: false
+  minimap: {}
   "project-manager":
     closeCurrent: true
+  tabs:
+    showIcons: true
+    usePreviewTabs: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
 ".python.source":
   editor:
     autoIndentOnPaste: true
