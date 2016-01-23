@@ -103,3 +103,8 @@ reports:
   paths: [
     "/Users/Browning/Programs/modustri-reports"
   ]
+"pytest-expecter":
+  title: "pytest-expecter"
+  paths: [
+    "/Users/Browning/Programs/pytest-expecter"
+  ]
