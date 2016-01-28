@@ -103,3 +103,8 @@ reports:
   paths: [
     "/Users/Browning/Programs/modustri-reports"
   ]
+info:
+  title: "info"
+  paths: [
+    "/Users/Browning/Programs/jacebrowning.info"
+  ]
