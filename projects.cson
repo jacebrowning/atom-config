@@ -107,6 +107,7 @@ info:
   title: "info"
   paths: [
     "/Users/Browning/Programs/jacebrowning.info"
+  ]
 "pytest-expecter":
   title: "pytest-expecter"
   paths: [
