@@ -113,3 +113,8 @@ info:
   paths: [
     "/Users/Browning/Programs/pytest-expecter"
   ]
+"coverage.space":
+  title: "coverage.space"
+  paths: [
+    "/Users/Browning/Programs/coverage.space"
+  ]
