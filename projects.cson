@@ -118,3 +118,8 @@ info:
   paths: [
     "/Users/Browning/Programs/coverage.space"
   ]
+"flask-api":
+  title: "flask-api"
+  paths: [
+    "/Users/Browning/Programs/flask-api"
+  ]
