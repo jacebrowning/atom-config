@@ -64,4 +64,4 @@
     tabLength: 2
 ".python.source":
   editor:
-    autoIndentOnPaste: true
+    autoIndentOnPaste: false
