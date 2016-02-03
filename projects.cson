@@ -88,10 +88,15 @@ mine:
   paths: [
     "/Users/Browning/Programs/mine"
   ]
-votestakes:
-  title: "VoteStakes"
+"votestakes-site":
+  title: "votestakes-site"
   paths: [
-    "/Users/Browning/Programs/votestakes-rails"
+     "/Users/Browning/Programs/votestakes-site"
+  ]
+"votestakes-app":
+  title: "votestakes-app"
+  paths: [
+    "/Users/Browning/Programs/votestakes-app"
   ]
 "friendlycode-grparks":
   title: "friendlycode-grparks"
