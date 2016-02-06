@@ -91,7 +91,7 @@ mine:
 "votestakes-site":
   title: "votestakes-site"
   paths: [
-     "/Users/Browning/Programs/votestakes-site"
+    "/Users/Browning/Programs/votestakes-site"
   ]
 "votestakes-app":
   title: "votestakes-app"
@@ -121,10 +121,15 @@ info:
 "coverage.space":
   title: "coverage.space"
   paths: [
-    "/Users/Browning/Programs/coverage-space"
+    "/Users/Browning/Programs/coverage.space"
   ]
 "flask-api":
   title: "flask-api"
   paths: [
     "/Users/Browning/Programs/flask-api"
+  ]
+"friendlycode-homepage":
+  title: "friendlycode-homepage"
+  paths: [
+    "/Users/Browning/Programs/friendlycode-homepage"
   ]
