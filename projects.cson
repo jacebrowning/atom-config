@@ -121,7 +121,7 @@ info:
 "coverage.space":
   title: "coverage.space"
   paths: [
-    "/Users/Browning/Programs/coverage-space"
+    "/Users/Browning/Programs/coverage.space"
   ]
 "flask-api":
   title: "flask-api"
@@ -137,4 +137,8 @@ dotfiles:
   title: "dotfiles"
   paths: [
     "/Users/Browning/Programs/dotfiles"
+"friendlycode-homepage":
+  title: "friendlycode-homepage"
+  paths: [
+    "/Users/Browning/Programs/friendlycode-homepage"
   ]
