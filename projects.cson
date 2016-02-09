@@ -91,7 +91,7 @@ mine:
 "votestakes-site":
   title: "votestakes-site"
   paths: [
-     "/Users/Browning/Programs/votestakes-site"
+    "/Users/Browning/Programs/votestakes-site"
   ]
 "votestakes-app":
   title: "votestakes-app"
@@ -127,4 +127,14 @@ info:
   title: "flask-api"
   paths: [
     "/Users/Browning/Programs/flask-api"
+  ]
+fatpipe:
+  title: "fatpipe"
+  paths: [
+    "/Users/Browning/Programs/modustri-hde-fatpipe"
+  ]
+dotfiles:
+  title: "dotfiles"
+  paths: [
+    "/Users/Browning/Programs/dotfiles"
   ]
