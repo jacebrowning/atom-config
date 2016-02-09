@@ -137,6 +137,7 @@ dotfiles:
   title: "dotfiles"
   paths: [
     "/Users/Browning/Programs/dotfiles"
+  ]
 "friendlycode-homepage":
   title: "friendlycode-homepage"
   paths: [
