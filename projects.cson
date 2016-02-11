@@ -143,3 +143,8 @@ dotfiles:
   paths: [
     "/Users/Browning/Programs/friendlycode-homepage"
   ]
+"coverage.space-cli":
+  title: "coverage.space-cli"
+  paths: [
+    "/Users/Browning/Programs/coverage.space-cli"
+  ]
