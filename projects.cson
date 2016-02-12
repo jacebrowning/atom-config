@@ -6,22 +6,22 @@ boxen:
 api:
   title: "api"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri-api"
+    "/Users/Browning/Dropbox/Programs/modustri/api"
   ]
 system:
   title: "system"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri-hde"
+    "/Users/Browning/Dropbox/Programs/modustri/hde"
   ]
 web:
   title: "web"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri-hde-web"
+    "/Users/Browning/Dropbox/Programs/modustri/hde-web"
   ]
 "web-e2e":
   title: "web-e2e"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri-hde-web/gdm_sources/e2e"
+    "/Users/Browning/Dropbox/Programs/modustri/hde-web/gdm_sources/e2e"
   ]
 "atom-config":
   title: "atom-config"
@@ -31,17 +31,17 @@ web:
 "api-e2e":
   title: "api-e2e"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri-api-e2e"
+    "/Users/Browning/Dropbox/Programs/modustri/api-e2e"
   ]
 ios:
   title: "ios"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri-hde-ios"
+    "/Users/Browning/Dropbox/Programs/modustri/hde-ios"
   ]
 gdm:
   title: "GDM"
   paths: [
-    "/Users/Browning/Dropbox/Programs/GDM"
+    "/Users/Browning/Dropbox/Programs/gdm"
   ]
 "template-python":
   title: "template-python"
@@ -51,7 +51,7 @@ gdm:
 memegen:
   title: "MemeGen"
   paths: [
-    "/Users/Browning/Dropbox/Programs/MemeGen"
+    "/Users/Browning/Dropbox/Programs/memegen"
   ]
 "heroku-buildpack-ember-cli":
   title: "heroku-buildpack-ember-cli"
@@ -61,12 +61,12 @@ memegen:
 swagger:
   title: "swagger"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri-swagger"
+    "/Users/Browning/Dropbox/Programs/modustri/swagger"
   ]
 yorm:
   title: "YORM"
   paths: [
-    "/Users/Browning/Dropbox/Programs/YORM"
+    "/Users/Browning/Dropbox/Programs/yorm"
   ]
 "move-shows":
   title: "move-shows"
@@ -76,7 +76,7 @@ yorm:
 dropthebeat:
   title: "DropTheBeat"
   paths: [
-    "/Users/Browning/Dropbox/Programs/DropTheBeat"
+    "/Users/Browning/Dropbox/Programs/dropthebeat"
   ]
 "template-python-demo":
   title: "template-python-demo"
@@ -101,12 +101,12 @@ mine:
 "friendlycode-grparks":
   title: "friendlycode-grparks"
   paths: [
-    "/Users/Browning/Dropbox/Programs/friendlycode-grparks"
+    "/Users/Browning/Dropbox/Programs/friendlycode/grparks"
   ]
 reports:
   title: "reports"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri-reports"
+    "/Users/Browning/Dropbox/Programs/modustri/reports"
   ]
 info:
   title: "info"
@@ -131,7 +131,7 @@ info:
 fatpipe:
   title: "fatpipe"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri-hde-fatpipe"
+    "/Users/Browning/Dropbox/Programs/modustri/hde-fatpipe"
   ]
 dotfiles:
   title: "dotfiles"
@@ -141,7 +141,7 @@ dotfiles:
 "friendlycode-homepage":
   title: "friendlycode-homepage"
   paths: [
-    "/Users/Browning/Dropbox/Programs/friendlycode-homepage"
+    "/Users/Browning/Dropbox/Programs/friendlycode/homepage"
   ]
 "coverage.space-cli":
   title: "coverage.space-cli"
