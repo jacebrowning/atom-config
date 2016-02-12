@@ -22,7 +22,6 @@
     scrollPastEnd: true
     showIndentGuide: true
     showInvisibles: true
-    tabLength: 4
   emmet: {}
   "exception-reporting":
     userId: "d9a613a9-e47f-edfa-dc48-9868294a23ba"
@@ -46,9 +45,10 @@
     ]
     pep8ExecutablePath: "/opt/boxen/pyenv/shims/pep8"
   "linter-pylint":
-    executable: "env/bin/pylint"
+    executable: "%p/env/bin/pylint"
     messageFormat: "%i (%s): %m"
-    pythonPath: "env/lib/python3.5/site-packages:/opt/boxen/pyenv/versions/current/lib/python3.5"
+    pythonPath: "%p/env/lib/python3.5/site-packages:/opt/boxen/pyenv/versions/current/lib/python3.5"
+    rcFile: "%p/.pylintrc"
   "markdown-preview": {}
   minimap: {}
   "project-manager":
