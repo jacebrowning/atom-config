@@ -1,72 +1,72 @@
 boxen:
   title: "boxen"
   paths: [
-    "/Users/Browning/Dropbox/Programs/Boxen"
+    "/Users/Browning/Programs/Boxen"
   ]
 api:
   title: "api"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri/api"
+    "/Users/Browning/Programs/modustri/api"
   ]
 system:
   title: "system"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri/hde"
+    "/Users/Browning/Programs/modustri/hde"
   ]
 web:
   title: "web"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri/hde-web"
+    "/Users/Browning/Programs/modustri/hde-web"
   ]
 "web-e2e":
   title: "web-e2e"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri/hde-web/gdm_sources/e2e"
+    "/Users/Browning/Programs/modustri/hde-web/gdm_sources/e2e"
   ]
 "atom-config":
   title: "atom-config"
   paths: [
-    "/Users/Browning/Dropbox/Programs/atom-config"
+    "/Users/Browning/Programs/atom-config"
   ]
 "api-e2e":
   title: "api-e2e"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri/api-e2e"
+    "/Users/Browning/Programs/modustri/api-e2e"
   ]
 ios:
   title: "ios"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri/hde-ios"
+    "/Users/Browning/Programs/modustri/hde-ios"
   ]
 gdm:
   title: "GDM"
   paths: [
-    "/Users/Browning/Dropbox/Programs/gdm"
+    "/Users/Browning/Programs/gdm"
   ]
 "template-python":
   title: "template-python"
   paths: [
-    "/Users/Browning/Dropbox/Programs/template-python"
+    "/Users/Browning/Programs/template-python"
   ]
 memegen:
   title: "MemeGen"
   paths: [
-    "/Users/Browning/Dropbox/Programs/memegen"
+    "/Users/Browning/Programs/memegen"
   ]
 "heroku-buildpack-ember-cli":
   title: "heroku-buildpack-ember-cli"
   paths: [
-    "/Users/Browning/Dropbox/Programs/heroku-buildpack-ember-cli"
+    "/Users/Browning/Programs/heroku-buildpack-ember-cli"
   ]
 swagger:
   title: "swagger"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri/swagger"
+    "/Users/Browning/Programs/modustri/swagger"
   ]
 yorm:
   title: "YORM"
   paths: [
-    "/Users/Browning/Dropbox/Programs/yorm"
+    "/Users/Browning/Programs/yorm"
   ]
 "move-shows":
   title: "move-shows"
@@ -76,75 +76,80 @@ yorm:
 dropthebeat:
   title: "DropTheBeat"
   paths: [
-    "/Users/Browning/Dropbox/Programs/dropthebeat"
+    "/Users/Browning/Programs/dropthebeat"
   ]
 "template-python-demo":
   title: "template-python-demo"
   paths: [
-    "/Users/Browning/Dropbox/Programs/template-python/PythonTemplateDemo"
+    "/Users/Browning/Programs/template-python/PythonTemplateDemo"
   ]
 mine:
   title: "mine"
   paths: [
-    "/Users/Browning/Dropbox/Programs/mine"
+    "/Users/Browning/Programs/mine"
   ]
 "votestakes-site":
   title: "votestakes-site"
   paths: [
-    "/Users/Browning/Dropbox/Programs/votestakes-site"
+    "/Users/Browning/Programs/votestakes-site"
   ]
 "votestakes-app":
   title: "votestakes-app"
   paths: [
-    "/Users/Browning/Dropbox/Programs/votestakes-app"
+    "/Users/Browning/Programs/votestakes-app"
   ]
 "friendlycode-grparks":
   title: "friendlycode-grparks"
   paths: [
-    "/Users/Browning/Dropbox/Programs/friendlycode/grparks"
+    "/Users/Browning/Programs/friendlycode/grparks"
   ]
 reports:
   title: "reports"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri/reports"
+    "/Users/Browning/Programs/modustri/reports"
   ]
 info:
   title: "info"
   paths: [
-    "/Users/Browning/Dropbox/Programs/jacebrowning.info"
+    "/Users/Browning/Programs/jacebrowning.info"
   ]
 "pytest-expecter":
   title: "pytest-expecter"
   paths: [
-    "/Users/Browning/Dropbox/Programs/pytest-expecter"
+    "/Users/Browning/Programs/pytest-expecter"
   ]
 "coverage.space":
   title: "coverage.space"
   paths: [
-    "/Users/Browning/Dropbox/Programs/coverage.space"
+    "/Users/Browning/Programs/coverage.space"
   ]
 "flask-api":
   title: "flask-api"
   paths: [
-    "/Users/Browning/Dropbox/Programs/flask-api"
+    "/Users/Browning/Programs/flask-api"
   ]
-fatpipe:
-  title: "fatpipe"
+sync:
+  title: "sync"
   paths: [
-    "/Users/Browning/Dropbox/Programs/modustri/hde-fatpipe"
+    "/Users/Browning/Programs/modustri/sync"
   ]
 dotfiles:
   title: "dotfiles"
   paths: [
-    "/Users/Browning/Dropbox/Programs/dotfiles"
+    "/Users/Browning/Programs/dotfiles"
   ]
 "friendlycode-homepage":
   title: "friendlycode-homepage"
   paths: [
-    "/Users/Browning/Dropbox/Programs/friendlycode/homepage"
+    "/Users/Browning/Programs/friendlycode/homepage"
   ]
 "coverage.space-cli":
   title: "coverage.space-cli"
   paths: [
-    "/Users/Browning/Dropbox/Programs/coverage.space-cli"
+    "/Users/Browning/Programs/coverage.space-cli"
+  ]
+"hde-data":
+  title: "hde-data"
+  paths: [
+    "/Users/Browning/Programs/modustri/hde-data"
   ]
