@@ -38,10 +38,10 @@ ios:
   paths: [
     "/Users/Browning/Programs/modustri/hde-ios"
   ]
-gdm:
-  title: "GDM"
+gitman:
+  title: "GitMan"
   paths: [
-    "/Users/Browning/Programs/gdm"
+    "/Users/Browning/Programs/gitman"
   ]
 "template-python":
   title: "template-python"
