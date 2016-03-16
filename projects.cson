@@ -21,7 +21,7 @@ web:
 "web-e2e":
   title: "web-e2e"
   paths: [
-    "/Users/Browning/Programs/modustri/hde-web/gdm_sources/e2e"
+    "/Users/Browning/Programs/modustri/hde-web-e2e"
   ]
 "atom-config":
   title: "atom-config"
