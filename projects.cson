@@ -153,3 +153,8 @@ dotfiles:
   paths: [
     "/Users/Browning/Programs/modustri/hde-data"
   ]
+gridcommand:
+  title: "GridCommand"
+  paths: [
+    "/Users/Browning/Programs/gridcommand"
+  ]
