@@ -8,8 +8,8 @@ api:
   paths: [
     "/Users/Browning/Programs/modustri/api"
   ]
-system:
-  title: "system"
+hde:
+  title: "hde"
   paths: [
     "/Users/Browning/Programs/modustri/hde"
   ]
@@ -157,4 +157,14 @@ gridcommand:
   title: "GridCommand"
   paths: [
     "/Users/Browning/Programs/gridcommand"
+  ]
+"hde-metrics":
+  title: "hde-metrics"
+  paths: [
+    "/Users/Browning/Programs/modustri/hde-metrics"
+  ]
+"hde-status":
+  title: "hde-status"
+  paths: [
+    "/Users/Browning/Programs/modustri/hde-status"
   ]

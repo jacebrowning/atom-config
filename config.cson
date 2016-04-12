@@ -42,6 +42,7 @@
   "linter-pep8":
     ignoreErrorCodes: [
       "E501"
+      "E712"
     ]
     pep8ExecutablePath: "/opt/boxen/pyenv/shims/pep8"
   "linter-pylint":
