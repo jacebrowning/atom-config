@@ -6,7 +6,7 @@ boxen:
 api:
   title: "api"
   paths: [
-    "/Users/Browning/Programs/modustri/api"
+    "/Users/Browning/Programs/modustri/hde/server/api"
   ]
 hde:
   title: "hde"
@@ -16,12 +16,12 @@ hde:
 web:
   title: "web"
   paths: [
-    "/Users/Browning/Programs/modustri/hde-web"
+    "/Users/Browning/Programs/modustri/hde/clients/web"
   ]
 "web-e2e":
   title: "web-e2e"
   paths: [
-    "/Users/Browning/Programs/modustri/hde-web-e2e"
+    "/Users/Browning/Programs/modustri/hde/tests/web"
   ]
 "atom-config":
   title: "atom-config"
@@ -31,12 +31,12 @@ web:
 "api-e2e":
   title: "api-e2e"
   paths: [
-    "/Users/Browning/Programs/modustri/api-e2e"
+    "/Users/Browning/Programs/modustri/hde/tests/api"
   ]
 ios:
   title: "ios"
   paths: [
-    "/Users/Browning/Programs/modustri/hde-ios"
+    "/Users/Browning/Programs/modustri/hde/clients/ios"
   ]
 gitman:
   title: "GitMan"
@@ -57,11 +57,6 @@ memegen:
   title: "heroku-buildpack-ember-cli"
   paths: [
     "/Users/Browning/Programs/heroku-buildpack-ember-cli"
-  ]
-swagger:
-  title: "swagger"
-  paths: [
-    "/Users/Browning/Programs/modustri/swagger"
   ]
 yorm:
   title: "YORM"
@@ -106,7 +101,7 @@ mine:
 reports:
   title: "reports"
   paths: [
-    "/Users/Browning/Programs/modustri/reports"
+    "/Users/Browning/Programs/modustri/hde/shared/reports"
   ]
 info:
   title: "info"
@@ -131,7 +126,7 @@ info:
 sync:
   title: "sync"
   paths: [
-    "/Users/Browning/Programs/modustri/sync"
+    "/Users/Browning/Programs/modustri/hde/server/sync"
   ]
 dotfiles:
   title: "dotfiles"
@@ -151,7 +146,7 @@ dotfiles:
 "hde-data":
   title: "hde-data"
   paths: [
-    "/Users/Browning/Programs/modustri/hde-data"
+    "/Users/Browning/Programs/modustri/hde/server/data"
   ]
 gridcommand:
   title: "GridCommand"
@@ -166,5 +161,20 @@ gridcommand:
 "hde-status":
   title: "hde-status"
   paths: [
-    "/Users/Browning/Programs/modustri/hde-status"
+    "/Users/Browning/Programs/modustri/hde/status"
+  ]
+doorstop:
+  title: "doorstop"
+  paths: [
+    "/Users/Browning/Programs/doorstop"
+  ]
+mctweetyface:
+  title: "mctweetyface"
+  paths: [
+    "/Users/Browning/Programs/mctweetyface"
+  ]
+teamrank:
+  title: "teamrank"
+  paths: [
+    "/Users/Browning/Programs/teamrank"
   ]
