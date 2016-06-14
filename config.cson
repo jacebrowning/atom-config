@@ -42,14 +42,17 @@
   "linter-pep8":
     ignoreErrorCodes: [
       "E501"
+      "E711"
       "E712"
     ]
     pep8ExecutablePath: "/opt/boxen/pyenv/shims/pep8"
+  "linter-pylama":
+    configFileLoad: "Try to find config in the parent directories"
+    executablePath: "/opt/boxen/pyenv/shims/pylama"
+    usePylint: true
   "linter-pylint":
-    executable: "%p/env/bin/pylint"
+    executable: "/opt/boxen/pyenv/shims/pylint"
     messageFormat: "%i (%s): %m"
-    pythonPath: "%p/env/lib/python3.5/site-packages:/opt/boxen/pyenv/versions/current/lib/python3.5"
-    rcFile: "%p/.pylintrc"
   "markdown-preview": {}
   minimap: {}
   "project-manager":
