@@ -93,10 +93,10 @@ mine:
   paths: [
     "/Users/Browning/Programs/votestakes-app"
   ]
-"friendlycode-grparks":
-  title: "friendlycode-grparks"
+grparks:
+  title: "grparks"
   paths: [
-    "/Users/Browning/Programs/friendlycode/grparks"
+    "/Users/Browning/Programs/citizenlabs/grparks"
   ]
 reports:
   title: "reports"
@@ -132,11 +132,6 @@ dotfiles:
   title: "dotfiles"
   paths: [
     "/Users/Browning/Programs/dotfiles"
-  ]
-"friendlycode-homepage":
-  title: "friendlycode-homepage"
-  paths: [
-    "/Users/Browning/Programs/friendlycode/homepage"
   ]
 "coverage.space-cli":
   title: "coverage.space-cli"
@@ -182,4 +177,24 @@ sappy:
   title: "sappy"
   paths: [
     "/Users/Browning/Programs/sappy"
+  ]
+styleguide:
+  title: "Etison Style Guide"
+  paths: [
+    "/Users/Browning/Programs/etison/style-guide"
+  ]
+clickfunnelsmigration:
+  title: "Legacy ClickFunnels Migration"
+  paths: [
+    "/Users/Browning/Programs/etison/legacy/clickfunnels-migration"
+  ]
+clickfunnelsinfrastructure:
+  title: "Etison Infrastructure"
+  paths: [
+    "/Users/Browning/Programs/etison/infrastructure"
+  ]
+etisonkaizen:
+  title: "Etison Kaizen"
+  paths: [
+    "/Users/Browning/Programs/etison/kaizen"
   ]
