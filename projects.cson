@@ -178,17 +178,22 @@ sappy:
   paths: [
     "/Users/Browning/Programs/sappy"
   ]
-styleguide:
+etisonstyleguide:
   title: "Etison Style Guide"
   paths: [
     "/Users/Browning/Programs/etison/style-guide"
   ]
-clickfunnelsmigration:
-  title: "Legacy ClickFunnels Migration"
+mothership:
+  title: "Mothership"
   paths: [
-    "/Users/Browning/Programs/etison/legacy/clickfunnels-migration"
+    "/Users/Browning/Programs/etison/mothership"
   ]
-clickfunnelsinfrastructure:
+mothershipmigration:
+  title: "Mothership Migration"
+  paths: [
+    "/Users/Browning/Programs/etison/mothership-migration"
+  ]
+etisoninfrastructure:
   title: "Etison Infrastructure"
   paths: [
     "/Users/Browning/Programs/etison/infrastructure"
