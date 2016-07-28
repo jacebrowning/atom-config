@@ -114,7 +114,7 @@ info:
     "/Users/Browning/Programs/pytest-expecter"
   ]
 "coverage.space":
-  title: "coverage.space"
+  title: "The Coverage Space"
   paths: [
     "/Users/Browning/Programs/coverage.space"
   ]
@@ -134,7 +134,7 @@ dotfiles:
     "/Users/Browning/Programs/dotfiles"
   ]
 "coverage.space-cli":
-  title: "coverage.space-cli"
+  title: "The Coverage Space (CLI)"
   paths: [
     "/Users/Browning/Programs/coverage.space-cli"
   ]
@@ -181,25 +181,50 @@ sappy:
 etisonstyleguide:
   title: "Etison Style Guide"
   paths: [
-    "/Users/Browning/Programs/etison/style-guide"
+    "/Users/Browning/Programs/etison/components/style-guide"
   ]
 mothership:
   title: "Mothership"
   paths: [
-    "/Users/Browning/Programs/etison/mothership"
+    "/Users/Browning/Programs/etison/components/mothership"
   ]
 mothershipmigration:
   title: "Mothership Migration"
   paths: [
-    "/Users/Browning/Programs/etison/mothership-migration"
+    "/Users/Browning/Programs/etison/components/mothership-migration"
   ]
 etisoninfrastructure:
   title: "Etison Infrastructure"
   paths: [
-    "/Users/Browning/Programs/etison/infrastructure"
+    "/Users/Browning/Programs/etison/components/infrastructure"
   ]
 etisonkaizen:
   title: "Etison Kaizen"
   paths: [
-    "/Users/Browning/Programs/etison/kaizen"
+    "/Users/Browning/Programs/etison/components/kaizen"
+  ]
+christgen:
+  title: "Christgen"
+  paths: [
+    "/Users/Browning/Programs/christgen"
+  ]
+lunchdown:
+  title: "Lunchdown"
+  paths: [
+    "/Users/Browning/Programs/lunchdown"
+  ]
+etison:
+  title: "Etison"
+  paths: [
+    "/Users/Browning/Programs/etison"
+  ]
+etisonconfigurationapi:
+  title: "Etison Configuration API"
+  paths: [
+    "/Users/Browning/Programs/etison/components/configuration-api"
+  ]
+etisonbackpackweb:
+  title: "Etison Backpack Web"
+  paths: [
+    "/Users/Browning/Programs/etison/components/backpack-web"
   ]
