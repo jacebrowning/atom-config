@@ -73,11 +73,6 @@ dropthebeat:
   paths: [
     "/Users/Browning/Programs/dropthebeat"
   ]
-"template-python-demo":
-  title: "template-python-demo"
-  paths: [
-    "/Users/Browning/Programs/template-python/PythonTemplateDemo"
-  ]
 mine:
   title: "mine"
   paths: [
@@ -104,7 +99,7 @@ reports:
     "/Users/Browning/Programs/modustri/hde/shared/reports"
   ]
 info:
-  title: "info"
+  title: "jacebrowning.info"
   paths: [
     "/Users/Browning/Programs/jacebrowning.info"
   ]
@@ -227,4 +222,14 @@ etisonbackpackweb:
   title: "Etison Backpack Web"
   paths: [
     "/Users/Browning/Programs/etison/components/backpack-web"
+  ]
+"maketested.com":
+  title: "maketested.com"
+  paths: [
+    "/Users/Browning/Programs/maketested.com"
+  ]
+"template-ruby":
+  title: "template-ruby"
+  paths: [
+    "/Users/Browning/Programs/template-ruby"
   ]
