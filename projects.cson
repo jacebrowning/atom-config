@@ -233,3 +233,13 @@ etisonbackpackweb:
   paths: [
     "/Users/Browning/Programs/template-ruby"
   ]
+etisonpostmortems:
+  title: "Etison Post Mortems"
+  paths: [
+    "/Users/Browning/Programs/etison/components/post-mortems"
+  ]
+etisondeploymentservice:
+  title: "Etison Deployment Service"
+  paths: [
+    "/Users/Browning/Programs/etison/deployment-service"
+  ]
